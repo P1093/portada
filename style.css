@@ -1,0 +1,32 @@
+.c1{
+    height: 100vh;
+    position: relative;
+    flex-direction: column;
+}
+
+.c2{
+    background-color: rgb(17, 39, 99);
+    height: 40%;
+
+}
+.c3{
+    padding-top: 50px;
+    height: 60%;
+    background-color: rgb(222, 218, 1);
+}
+.c4 img {
+    transform: translate(-50%,-50%);
+    max-height: 25vh; 
+    border-radius: 50%; 
+}
+.c4{
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+}
+.c2 h1 {
+    text-align: center;
+}
+.c3 h4{
+    text-align: center;
+}
